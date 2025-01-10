@@ -1,40 +1,91 @@
 ---
 title: "Resume"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Education
 
--   List your education here. 
+**Master of Geomatics in Environmental Management** 2024 - Present
 
-# Publications
+University of British Columbia, BC
 
-*Peer-reviewed publications:*
+Relevant courses: Landscape Ecology and Management, Remote Sensing for
+Ecosystem Management, Geographic Information Systems for Forestry and
+Conservation, Geospatial Data Analysis.
 
-- List any peer-reviewed publications here.
+**Bachelor of Applied Science, Computer Engineering** 2015 - 2019
 
-*Reports:*
+University of Ottawa, ON
 
-- List any non-peer reviewed materials you'd like to share here.
+Relevant courses: Technical Report Writing, Statistics for Engineers,
+Data Structures and Algorithms; Software Construction; Introduction to
+Biology and Organisms, Digital Systems; Calculus I, II, and III
 
-# Conferences & Talks
+# Work Experience
 
-*Invited Talks*
+**Web Developer** 05/2018 - Present
 
-- If you've been invited to speak in a professional setting, list that here. 
+Public Health Agency of Canada - Ottawa, ON
 
-*Conference Presentations*
+-   Make layer adjustment, plot coordinates, simplify shapefiles and
+    bind data to polygons using QGIS as a first step to the web
+    publishing pipeline
 
-- If the presentation was at a conference, list them here. 
+-   Build data visualizations and design maps of public health data
+    using D3.js - Ensure web products adhere to accessibility guidelines
+
+-   Script server automation tasks using Python
+
+-   Streamline data intake by creating a CSV to SQL pipeline using
+    python
+
+-   Build API for project data using Flask and SQlite database
+
+-   Lead development of homepage redesign to simplify user interactions
+    and wayfinding Collaborate with epidemiologists and program teams to
+    ensure efficient information dissemination
+
+**Firmware Developer** 04/2020 - 03/2021
+
+Rianta Solutions - Ottawa Ontario
+
+-   Debug C++ driver interfacing with high-speed ethernet hardware
+
+-   Develop new high level functions to simplify driver integration
+
+-   Maintain proper doxygen documentation
+
+**Software and Firmware Intern** 06/2019 - 09/2019
+
+Össur - Reykjavik, Iceland
+
+-   Developed firmware components for an embedded diagnostic application
+    used for a microprocessor controlled knee prosthesis prototype
+
+-   Tested firmware components with hardware in the loop test system
+
+-   Integration of diagnostic firmware with existing tool chain,
+    including data logging and visualization software and device
+    configuration software
 
 # Awards & Honors
 
-- List any scholarships, bursaries, etc. 
+-   Creativity, innovation and service delivery award: Assistant Deputy
+    Minister, Public Health Agency of Canada, 2021
 
+-   Excellence in responding to the COVID 19 pandemic: Chief Information
+    Officer of Canada, 2021
 
-# Teaching Assistantships
+-   International Experience Scholarship: 2018
 
-- List any TA positions you may have held. 
+-   Merit Scholarship: 2019
 
 # Institutional Service
 
-- Volunteering etc. 
+Quarry Forest Restoration with Thousand Island National Park
+
+-   Expand knowledge about forest restoration and regeneration
+
+-   Assist with tree planting, watering and fence installation
