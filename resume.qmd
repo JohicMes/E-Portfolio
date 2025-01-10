@@ -7,7 +7,9 @@ editor:
 
 # Education
 
-**Master of Geomatics in Environmental Management** 2024 - Present
+**Master of Geomatics in Environmental Management**
+
+2024 - Present
 
 University of British Columbia, BC
 
@@ -15,7 +17,9 @@ Relevant courses: Landscape Ecology and Management, Remote Sensing for
 Ecosystem Management, Geographic Information Systems for Forestry and
 Conservation, Geospatial Data Analysis.
 
-**Bachelor of Applied Science, Computer Engineering** 2015 - 2019
+**Bachelor of Applied Science, Computer Engineering**
+
+2015 - 2019
 
 University of Ottawa, ON
 
@@ -25,7 +29,9 @@ Biology and Organisms, Digital Systems; Calculus I, II, and III
 
 # Work Experience
 
-**Web Developer** 05/2018 - Present
+**Web Developer**
+
+05/2018 - Present
 
 Public Health Agency of Canada - Ottawa, ON
 
@@ -47,7 +53,9 @@ Public Health Agency of Canada - Ottawa, ON
     and wayfinding Collaborate with epidemiologists and program teams to
     ensure efficient information dissemination
 
-**Firmware Developer** 04/2020 - 03/2021
+**Firmware Developer**
+
+04/2020 - 03/2021
 
 Rianta Solutions - Ottawa Ontario
 
@@ -57,7 +65,9 @@ Rianta Solutions - Ottawa Ontario
 
 -   Maintain proper doxygen documentation
 
-**Software and Firmware Intern** 06/2019 - 09/2019
+**Software and Firmware Intern**
+
+06/2019 - 09/2019
 
 Össur - Reykjavik, Iceland
 

@@ -16,8 +16,6 @@ about:
       href: mailto:johicmes@gmail.com
 ---
 
-Hey there, 
-
-I'm Johic, 
+Hey there I'm Johic, 
 
 I grew up in Ottawa and chose to pursue a Bachelor’s in Computer Engineering at uOttawa. What no one told me was how domain-agnostic that field could truly be. I never would have guessed that it could open doors that would take me all the way to Iceland to work with prosthetics, into the cutting-edge world of high-tech hardware design, or even to the Public Health Agency of Canada in the midst of a pandemic. I quickly discovered that no matter what realm of work I was in, the goal was always to answer a question or solve a problem. What I had never asked myself was, what kind of problems do I want to solve? Enter the MGEM at UBC, a program where my love for the outdoors, maps, and tech finally unite to answer real, tangible environmental questions. I look forward to deepening my knowledge of geospatial sciences and leveraging my programming skills to refocus my career in the realm of environmental conservation or restoration. Like the kids say these days, my current career never lets me “touch grass”. I’m on a mission to change that. Outside of the academic and professional world, you can probably find me restoring 70s or 80s audio gear while jamming to some music, out on a hike, playing basketball, or trying something new! 
